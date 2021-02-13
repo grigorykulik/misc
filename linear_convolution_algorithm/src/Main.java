@@ -62,6 +62,7 @@ public class Main {
         // fill the necessary positions in the new array2 with zeros
         for (int i=newLength-b.length; i<newLength; i++) {
             newB[i]=0;
+
         }
 
         // the resulting array
